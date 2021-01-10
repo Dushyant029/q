@@ -1,12 +1,8 @@
-## Form Validator (Intro Project)
+# Login Validator
 
-Simple client side form validation. Check required, length, email and password match
+This is a simple client side form validation contains check required, length, email and password match build using Html, Css and Javascript.
 
-## Project Specifications
+## Preview: https://dushyant029.github.io/Login-Validator/
 
-- Create form UI
-- Show error messages under specific inputs
-- checkRequired() to accept array of inputs
-- checkLength() to check min and max length
-- checkEmail() to validate email with regex
-- checkPasswordsMatch() to match confirm password
+![image](https://user-images.githubusercontent.com/55031190/104130290-e3157980-5395-11eb-948e-7d4f3fd14ce1.png)
+
